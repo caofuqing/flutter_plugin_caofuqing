@@ -1,8 +1,8 @@
 name: flutter_plugin_caofuqing
 description: A new Flutter plugin.
 version: 0.0.1
-author:
-homepage:
+author: caofuqing<15082970403@163.com>
+homepage: https://github.com/caofuqing
 
 environment:
   sdk: ">=2.1.0 <3.0.0"
